@@ -1,0 +1,3 @@
+"ip": "aurshil.aternos.me"                                                                          
+"port": "35352"
+"name": "free fire guy"
